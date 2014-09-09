@@ -28,7 +28,7 @@ test_requires Test::Software::License 0.002
 
 homepage    http://padre.perlide.org/trac/wiki/PadrePluginAutodia
 bugtracker  http://padre.perlide.org/trac/wiki/Tickets
-repository  http://svn.perlide.org/padre/trunk/Padre-Plugin-Autodia/
+repository  https://github.com/PadreIDE/Padre-Plugin-Autodia/
 
 install_share
 
